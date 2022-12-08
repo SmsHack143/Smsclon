@@ -24,7 +24,7 @@ pip2 install requests
 pip2 install mechanize
 
 
-git clone https://github.com/SmsHack143/smsclone/Smsfbclone.py
+git clone https://github.com/SmsHack143/Smsfbclone.py
 
 
 cd worldcamhack
